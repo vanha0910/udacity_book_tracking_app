@@ -99,5 +99,3 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Contributing
 
 This repository is developed from starter code for _all_ Udacity students, with reference of https://www.freecodecamp.org/news/how-to-use-react-router-version-6/
-
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
